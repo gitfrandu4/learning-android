@@ -1,4 +1,4 @@
-# Introducción a Android
+# Introducción a Android
 
 * [Elementos visuales](https://github.com/gitfrandu4/android-view-binding)
   * [Layouts](https://github.com/gitfrandu4/android-view-binding#layouts)
