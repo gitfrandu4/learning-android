@@ -3,3 +3,4 @@
 * [Recycler View](https://github.com/gitfrandu4/android-recycler-view)
 * [Tab Layout & ViewPager 2](https://github.com/gitfrandu4/android-tab-layout)
 * [Bottom Navigation View](https://github.com/gitfrandu4/android-bottom-navigation-view)
+* [ViewModel & RetroFit](https://github.com/gitfrandu4/android-viewmodel-retrofit)
